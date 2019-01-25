@@ -1,5 +1,0 @@
-Errata for "Pausing and Resuming Network Flows using Programmable Buffers":
-
-(1) In first paragraph of Section 5.1, "500-meter" is changed to "5-meter";
-(2) In Section 6.3.2, handoff duration "20ms" is changed to "10ms";
-(3) In Figure 9, the tail of the first arrow is placed on the "Sensor" axis.
